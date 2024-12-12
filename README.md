@@ -8,7 +8,7 @@ Whether you're looking to deepen your knowledge of neural networks, fine-tune pr
 
 ## 📚 **Overview**
 - **Duration:** 15 December 2024 – 21 January 2025
-- **Commitment:** ~20 hours per week (excluding Saturdays)
+- **Commitment:** ~20 hours per week
 - **Focus Areas:**
   - Deep Learning Foundations
   - Transformer Architectures
