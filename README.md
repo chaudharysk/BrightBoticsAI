@@ -1,5 +1,3 @@
-# Deep Learning to Language Models Study Plan
-
 Welcome to the **Deep Learning to LLMs Study Plan** repository! This curriculum is designed to guide you through an intermediate-level journey, culminating in advanced understanding and practical skills in large language models (LLMs). By the end of this program, you will be able to build, fine-tune, optimize, and deploy models like GPT, BERT, and T5 for real-world applications.
 
 ---
